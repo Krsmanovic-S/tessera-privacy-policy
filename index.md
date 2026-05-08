@@ -36,6 +36,10 @@ Tessera uses Firebase Cloud Messaging (FCM) to deliver push notifications. Notif
 
 You can delete your account at any time from the Profile screen within the app. Deleting your account permanently removes your email, username, watchlist, and notification preferences from our servers. This action cannot be undone.
 
+If you are unable to access the app, you can request account deletion by 
+emailing cursemanowitch@gmail.com with the subject "Account Deletion Request" 
+and we will delete your account within 7 days.
+
 ## Third Party Services
 
 Tessera uses the following third party services:
