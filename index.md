@@ -1,4 +1,4 @@
-#Privacy Policy for Tessera
+# Privacy Policy for Tessera
 
 Last updated: May 8, 2026
 
